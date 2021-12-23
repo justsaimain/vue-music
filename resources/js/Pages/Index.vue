@@ -1,9 +1,11 @@
 <template>
-    <h1>Index Page</h1>
+    <div class="card">
+        <div class="card-body">
+            <h1>Hello World</h1>
+        </div>
+    </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
